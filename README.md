@@ -1,2 +1,2 @@
-# Sistem-Analizi-Ve-Tasar-m-
+# SİSTEM ANALİZİ VE TASARIMI
 KTÜ (2022-2023) YBS DÖNEM PROJESİ
